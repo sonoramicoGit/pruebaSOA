@@ -16,7 +16,10 @@ public class Negocio {
 	public   String modificacion() {
 		return "En el metodo modificacion()";
 	}
-	
+	// Creacion delete git
+	public   String delete() {
+		return "En el metodo delete()";
+	}
 
 	
 }
