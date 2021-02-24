@@ -16,5 +16,9 @@ public class Negocio {
 	public   String modificacion() {
 		return "En el metodo modificacion()";
 	}
+	public   String delete() {
+		return "En el metodo delete()";
+	}
+
 	
 }
