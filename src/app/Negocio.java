@@ -18,6 +18,7 @@ public class Negocio {
 	}
 	// Creacion delete git
 	public   String delete() {
+		System.out.println("cambio en el github");
 		return "En el metodo delete()";
 	}
 
