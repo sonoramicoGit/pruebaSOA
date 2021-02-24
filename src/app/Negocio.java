@@ -7,4 +7,8 @@ public class Negocio {
 		return "En el metodo saludo()";
 	}
 	
+	public   String alta() {
+		return "En el metodo alta()";
+	}
+	
 }
