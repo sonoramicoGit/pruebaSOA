@@ -10,5 +10,8 @@ public class Negocio {
 	public   String alta() {
 		return "En el metodo alta()";
 	}
+	public   String baja() {
+		return "En el metodo baja()";
+	}
 	
 }
