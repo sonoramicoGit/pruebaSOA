@@ -7,7 +7,7 @@ public class Test {
 		
 		Negocio neg=new Negocio();
 		System.out.println(neg.saludo());
-		System.out.println("Modificacion v1");
+		System.out.println("Modificacion v2");
 	}
 
 }
