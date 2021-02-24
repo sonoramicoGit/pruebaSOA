@@ -13,5 +13,8 @@ public class Negocio {
 	public   String baja() {
 		return "En el metodo baja()";
 	}
+	public   String modificacion() {
+		return "En el metodo modificacion()";
+	}
 	
 }
